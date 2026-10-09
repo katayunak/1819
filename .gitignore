@@ -15,6 +15,3 @@ coverage.*
 # Local agent state
 .claude/worktrees/
 .claude/settings.local.json
-
-# testigo output if it is run against the bundled fixtures
-gofacts/scan/testdata/*/testigo/
